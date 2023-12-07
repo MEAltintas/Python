@@ -1,0 +1,5 @@
+metre=float(input("Metre cinsinden değer giriniz: "))
+km=float(metre*0.001)
+cm=float(metre*100)
+print("KM: ",km)
+print("CM: ",cm)
