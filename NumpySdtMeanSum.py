@@ -1,0 +1,11 @@
+import numpy as np
+h=np.array([1,2,3,4,5,6,7])
+print(h)
+print(h.mean())
+print(h.std())
+print(h.sum())
+print(np.median(h))
+print(np.exp(np.pi))
+print(np.cos(np.pi))
+print(np.sin(np.pi/2*3))
+print(np.sin(np.pi/2))
