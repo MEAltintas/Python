@@ -1,0 +1,5 @@
+tuple1=np.array((1,2,3,4))
+print(dizi2[1,1])
+print(dizi3[1,0,0])
+print(dizi3[:,:,-1])
+print(dizi3[:,:,1::2])
