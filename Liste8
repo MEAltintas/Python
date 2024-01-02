@@ -1,0 +1,8 @@
+liste=[10,20,30,40,20,30,20,50,10]
+liste.append(60)
+print(liste)
+liste.append(70)
+print(liste)
+liste.pop()
+print(liste)
+print(liste.count(20))
