@@ -5,5 +5,4 @@ Bu repository, Python programlama diliyle yapılmış projeleri içermektedir. P
 </p> <br>
 
 ### Benimle iletişime geçebilirsiniz
-<br>
 E-posta: mezgialtintas@gmail.com
