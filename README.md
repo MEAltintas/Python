@@ -33,11 +33,6 @@ hem de **ileri seviye kullanıcılar** için ilham verici çalışmalar bulabili
 ## 📬 İletişim
 💌 Bana ulaşmak için: **mezgialtintas@gmail.com**
 
-<p align="center">
-  <a href="https://github.com/mezgialtintas"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" /></a>
-  <a href="mailto:mezgialtintas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
-</p>
-
 ---
 
 ✨ **“Kodlamak bir sanat, paylaşmak ise ilham vermektir.”**
