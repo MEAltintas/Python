@@ -32,7 +32,3 @@ hem de **ileri seviye kullanıcılar** için ilham verici çalışmalar bulabili
 
 ## 📬 İletişim
 💌 Bana ulaşmak için: **mezgialtintas@gmail.com**
-
----
-
-✨ **“Kodlamak bir sanat, paylaşmak ise ilham vermektir.”**
